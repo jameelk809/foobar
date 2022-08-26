@@ -7,5 +7,5 @@ def mul(a, b):
 
 
 a = 56
-b = 876
+b = 875
 print(mul(a, b))
