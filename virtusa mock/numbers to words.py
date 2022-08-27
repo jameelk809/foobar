@@ -45,4 +45,4 @@ def convert_to_words(num):
     return "".join(res)
 
 
-print(convert_to_words(str(9870)))
+print(convert_to_words(str(987)))
